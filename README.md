@@ -30,6 +30,4 @@ This project demonstrates the use of:
 ---
 
 ## Author
-**Your Name**  
-BTech CSE – Semester 3
-
+**Ishika Banga** 
